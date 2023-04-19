@@ -1,0 +1,1 @@
+export type Sides = 'down' | 'up' | 'left' | 'right'
